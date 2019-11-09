@@ -1,0 +1,17 @@
+- escolher nome
+- escolher duas cores: https://www.materialpalette.com/
+- criar logo: https://logo.squarespace.com/
+- ajuda para gerar nome: https://pt.shopify.com/ferramentas/gerador-nomes-para-empresas
+
+- criar pasta com nome do projeto
+- criar pasta "imagens" e colocar os logo dentro
+- criar arquivo index.html
+
+estrutura fica assim:
+
+agencia-efemera
+       imagens
+              logo.png
+              logo2.png
+
+       index.html
