@@ -4,7 +4,10 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #E64A19;
+    background-image: url("../imagens/fundo2.jpg");
+  /* background-image: linear-gradient( to right, #ffffff, #f83600, #ffffff, #f83600, #ffffff, #f83600, #ffffff, #f83600 );*/
+    background-attachment: fixed;
+
 }
 
 .navbar-brand img{
@@ -12,6 +15,8 @@ body{
    
 }
 
-.banner img{
-    width: 300px;
+.carrocel{
+   height: 700px;
+    
 }
+
